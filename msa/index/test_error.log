@@ -1,0 +1,1342 @@
+[2022-07-19 16:04:57,558] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:05:38,650] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1695, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+[2022-07-19 16:05:38,653] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:05:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:05:39,366] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1695, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+[2022-07-19 16:05:39,368] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:05:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:05:39,564] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1695, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+[2022-07-19 16:05:39,565] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:05:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:05:39,748] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1695, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+[2022-07-19 16:05:39,749] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:05:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:05:39,895] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1695, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+[2022-07-19 16:05:39,897] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:05:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:05:40,115] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1695, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+[2022-07-19 16:05:40,117] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:05:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:05:40,715] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1695, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+[2022-07-19 16:05:40,717] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:05:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:06:47,204] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:06:53,395] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1730, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a bool.
+[2022-07-19 16:06:53,398] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:06:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:06:54,220] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1730, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a bool.
+[2022-07-19 16:06:54,221] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:06:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:06:54,401] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1730, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a bool.
+[2022-07-19 16:06:54,402] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:06:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:06:54,569] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1730, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a bool.
+[2022-07-19 16:06:54,570] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:06:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:06:54,699] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1730, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a bool.
+[2022-07-19 16:06:54,701] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:06:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:06:54,867] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1520, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1539, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1730, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a bool.
+[2022-07-19 16:06:54,868] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:06:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:07:55,611] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:08:01,543] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:08:01] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:08:02,259] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:08:02] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:08:02,510] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:08:02] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:08:02,726] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:08:02] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:09:20,414] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:09:25,007] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:25,010] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:25,715] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:25,716] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:25,897] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:25,898] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:26,048] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:26,049] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:26,181] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:26,181] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:26,315] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:26,315] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:26,449] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:26,449] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:26,581] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('./Cake-Factory/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:26,582] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:55,581] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:09:59,167] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:59,169] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:59,767] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:59,768] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:09:59,917] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:09:59,917] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:09:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:10:00,084] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:10:00,085] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:10:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:10:00,218] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:10:00,218] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:10:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:11:43,341] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:11:46,943] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('html/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:11:46,945] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:11:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:12:06,108] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('html/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:12:06,109] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:12:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:12:06,709] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('html/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:12:06,710] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:12:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:12:06,959] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('html/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:12:06,960] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:12:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:12:07,158] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('html/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:12:07,159] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:12:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:12:07,343] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('html/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:12:07,344] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:12:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:12:07,576] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('html/index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:12:07,577] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:12:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:13:13,508] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:13:22,915] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:13:22,917] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:13:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:13:23,548] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:13:23,554] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:13:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:13:23,698] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:13:23,699] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:13:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:13:23,862] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/hyowonlee/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "index.py", line 34, in index
+    return render_template('index.html')
+NameError: name 'render_template' is not defined
+[2022-07-19 16:13:23,863] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:13:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-07-19 16:15:38,868] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:15:43,245] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:15:43,256] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,264] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,265] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,266] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,267] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,267] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,268] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,269] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,271] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,272] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,274] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,275] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,277] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,277] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,278] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,279] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,280] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,306] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,307] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:15:43,468] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:15:43] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,569] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:22:30,587] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,592] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,593] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,595] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,595] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,596] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,599] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,600] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,601] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,602] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,603] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,604] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,605] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,607] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,608] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,609] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,610] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,611] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:22:30,612] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:22:30] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:26:58,700] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:27:04,009] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:27:04,022] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,028] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,029] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,030] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,031] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,032] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,034] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,035] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,036] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,037] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,038] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,040] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,042] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,043] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,045] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,046] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,047] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,048] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,049] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,837] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:27:04,845] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,847] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,854] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,855] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,855] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,856] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,857] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,858] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,859] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,860] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,862] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,863] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,865] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,866] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,867] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,868] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,868] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,869] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,870] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:04,871] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:04] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,001] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:27:05,009] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,010] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,014] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,015] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,015] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,016] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,018] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,019] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,020] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,021] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,022] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,023] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,023] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,024] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,025] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,027] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,027] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,029] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,030] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,031] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,151] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:27:05,159] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,160] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,164] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,165] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,165] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,166] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,167] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,168] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,169] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,171] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,171] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,172] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,173] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,174] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,175] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,176] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,177] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,178] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,179] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,180] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,318] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:27:05,326] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,327] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,331] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,332] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,333] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,334] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,335] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,336] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,337] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,338] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,339] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,340] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,341] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,342] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,343] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,344] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,345] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,346] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,347] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,348] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,469] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:27:05,477] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,478] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,482] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,483] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,484] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,484] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,485] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,486] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,487] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,488] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,489] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,490] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,491] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,493] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,494] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,495] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,496] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,496] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,497] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:27:05,498] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:27:05] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,048] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:30:12,059] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,063] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,073] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,074] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,075] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,076] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,077] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,079] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,080] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,081] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,083] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,084] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,085] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,086] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,087] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,088] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,089] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,090] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,091] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,092] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,916] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:30:12,926] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,927] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,933] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,934] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,935] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,936] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,937] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,939] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,940] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,941] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,942] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,943] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,944] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,945] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,946] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,947] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,948] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,949] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,950] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:12,951] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:12] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,081] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:30:13,090] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,092] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,095] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,096] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,097] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,099] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,100] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,101] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,102] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,103] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,104] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,105] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,106] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,107] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,109] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,110] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,111] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,112] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,113] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,114] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,266] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:30:13,276] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,277] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,281] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,282] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,283] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Top-pick.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,284] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Top-pick-lg.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,285] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,286] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,288] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,289] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Chocko-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,290] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-5.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,292] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,293] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,294] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Fruit-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,295] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/gluten-free-icon-dark.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,296] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-1.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,297] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-2.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,298] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-3.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,298] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/GF-4.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:30:13,299] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:30:13] "[33mGET /img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 404 -
+[2022-07-19 16:33:34,998] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:33:42,035] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:33:42,045] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/style.css HTTP/1.1" 200 -
+[2022-07-19 16:33:42,048] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,057] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Top-pick.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,058] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,062] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Chocko-1.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,063] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Top-pick-lg.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,063] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Aleksandar.jpg HTTP/1.1" 200 -
+[2022-07-19 16:33:42,064] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Chocko-2.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,064] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Chocko-3.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,069] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Chocko-5.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,081] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1" 200 -
+[2022-07-19 16:33:42,087] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/fonts/Gotham-Bold.woff2 HTTP/1.1" 200 -
+[2022-07-19 16:33:42,092] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1" 200 -
+[2022-07-19 16:33:42,095] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1" 200 -
+[2022-07-19 16:33:42,098] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1" 200 -
+[2022-07-19 16:33:42,099] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Fruit-1.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,103] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Fruit-5.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,105] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Fruit-2.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,108] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Fruit-4.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,110] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/Fruit-3.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,122] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/GF-1.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,123] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/gluten-free-icon-dark.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,124] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/GF-2.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,134] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/GF-3.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,136] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "GET /static/img/GF-4.png HTTP/1.1" 200 -
+[2022-07-19 16:33:42,155] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:33:42] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:50,985] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:50] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:34:50,998] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,003] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,008] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,012] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,012] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,014] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,015] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,018] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,019] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,021] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,022] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,024] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,026] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,027] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,029] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,031] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,033] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,034] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,034] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,037] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,039] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,041] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,042] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,043] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,044] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:51,067] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:51] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,050] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:34:53,061] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,061] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,070] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,072] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,073] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,075] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,075] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,076] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,078] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,079] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,081] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,081] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,083] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,083] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,084] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,086] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,087] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,088] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,089] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,092] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,093] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,093] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,095] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,096] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,097] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:34:53,111] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:34:53] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:05,997] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:45:12,785] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:45:12,801] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,808] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,808] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "GET /static/img/hwlee.jpg HTTP/1.1" 200 -
+[2022-07-19 16:45:12,809] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,811] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,814] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,816] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,818] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,818] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,821] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,821] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,823] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,824] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,825] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,826] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,828] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,829] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,830] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,831] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,833] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,835] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,835] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,837] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,838] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,840] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:45:12,864] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:12] "[33mGET /static/img/kt_logo.jpg HTTP/1.1[0m" 404 -
+[2022-07-19 16:45:18,314] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:45:18] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2022-07-19 16:48:03,317] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:48:07,022] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:07,038] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,040] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "GET /static/img/kt_logo.png HTTP/1.1" 200 -
+[2022-07-19 16:48:07,045] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,046] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,046] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,047] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,049] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,050] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,051] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,054] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,055] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,055] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,057] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,058] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,060] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,061] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,062] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,064] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,067] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,067] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,068] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,071] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,072] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,072] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:07,154] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:07] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,357] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:08,369] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,370] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,378] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,379] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,380] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,381] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,383] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,384] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,384] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,386] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,388] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,388] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,389] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,391] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,392] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,393] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,395] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,395] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,397] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,398] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,400] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,401] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,402] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,403] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,417] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,740] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:08,751] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,751] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,755] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,756] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,758] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,759] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,759] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,761] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,762] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,764] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,765] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,766] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,767] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,768] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,769] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,771] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,772] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,772] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:08,789] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:08] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,073] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:09,082] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,083] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,087] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,088] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,088] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,090] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,090] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,091] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,093] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,095] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,097] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,097] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,098] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,098] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,100] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,102] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,102] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,103] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,120] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,288] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:09,296] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,297] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,302] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,303] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,303] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,304] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,305] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,306] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,308] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,309] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,310] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,311] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,312] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,313] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,315] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,315] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,318] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,319] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,336] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,555] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:09,563] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,564] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,568] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,570] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,571] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,572] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,573] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,573] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,575] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,576] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,578] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,579] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,579] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,581] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,583] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,584] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,586] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,586] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,602] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,889] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:09,899] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,899] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,903] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,904] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,905] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,905] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,907] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,908] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,909] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,910] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,912] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,912] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,914] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,915] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,917] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,918] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,919] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,920] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:09,937] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:09] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,257] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:10,268] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,268] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,274] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,274] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,275] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,275] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,276] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,277] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,279] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,281] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,282] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,283] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,285] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,286] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,286] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,288] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,289] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,290] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,306] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,404] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:10,413] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,413] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,418] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,418] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,419] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,420] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,422] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,422] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,424] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,425] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,427] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,427] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,429] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,431] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,431] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,433] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,435] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,435] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,452] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,705] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:10,713] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,714] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,718] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,719] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,720] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,720] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,722] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,723] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,725] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,726] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,727] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,728] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,729] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,731] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,732] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,734] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,735] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,736] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,751] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,871] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:10,879] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,880] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,885] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,886] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,887] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,888] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,889] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,890] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,891] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,891] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,892] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,897] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,897] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,898] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,899] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,900] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,900] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,903] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:10,918] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:10] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,240] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:11,251] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,252] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,256] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,257] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,258] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,258] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,259] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,261] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,263] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,264] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,264] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,266] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,268] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,269] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,270] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,271] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,272] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,273] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,287] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,590] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:11,601] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,601] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,605] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,606] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,606] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,608] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,608] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,610] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,611] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,613] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,614] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,615] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,617] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,618] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,618] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,620] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,621] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,622] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,637] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,788] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:11,796] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,797] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,802] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,803] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,803] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,804] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,806] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,807] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,808] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,809] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,810] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,812] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,813] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,814] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,816] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,816] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,818] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,819] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,836] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,938] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:11,946] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,947] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,952] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,953] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,953] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,954] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,955] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,957] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,958] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,960] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,960] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,961] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,963] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,964] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,965] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,966] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,968] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,969] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:11,985] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:11] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,122] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:12,132] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,132] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,136] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,137] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,138] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,140] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,141] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,142] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,143] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,144] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,145] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,146] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,148] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,149] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,150] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,151] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,153] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,153] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,169] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,388] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:12,396] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,397] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,403] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,403] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,404] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,404] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,405] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,405] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,409] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,410] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,411] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,411] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,414] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,415] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,415] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,416] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,418] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,419] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,435] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,555] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:12,563] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,564] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,568] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,569] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,570] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,571] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,572] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,573] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,574] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,576] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,576] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,578] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,579] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,580] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,582] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,583] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,585] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,585] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,600] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,738] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:12,745] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,747] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,751] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,752] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,753] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,754] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,755] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,757] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,757] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,759] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,760] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,761] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,762] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,763] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,765] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,767] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,768] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,768] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,785] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,905] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:48:12,913] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,914] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,920] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,920] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,921] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,922] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,923] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,924] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,925] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,927] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,929] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,930] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,930] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,932] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,934] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,935] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,936] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,937] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:48:12,951] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:48:12] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:29,205] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:49:31,535] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:49:31,545] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,548] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,552] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,557] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,557] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,559] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,559] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,562] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,562] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,564] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,566] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,568] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,568] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,571] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,573] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,573] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,575] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,577] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:49:31,605] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:49:31] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:28,148] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:52:31,464] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:52:31,478] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,483] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,491] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,491] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,492] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,492] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,493] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,493] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,494] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,497] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,498] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,500] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,501] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,503] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,505] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,506] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,506] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,508] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:52:31,545] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:52:31] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:01,056] INFO in _internal:  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+[2022-07-19 16:53:03,884] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "GET / HTTP/1.1" 200 -
+[2022-07-19 16:53:03,897] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,901] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,904] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/hwlee.jpg HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,907] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,907] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,910] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,912] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,913] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,914] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,916] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,917] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,919] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,921] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,922] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,923] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,924] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,925] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,926] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-07-19 16:53:03,937] INFO in _internal: 127.0.0.1 - - [19/Jul/2022 16:53:03] "[36mGET /static/img/kt_logo.png HTTP/1.1[0m" 304 -
