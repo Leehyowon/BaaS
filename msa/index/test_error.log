@@ -1586,3 +1586,234 @@ TypeError: url_for() takes 1 positional argument but 2 were given
 [2022-08-03 14:38:19,480] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:38:19] "GET /static/fonts/Gotham-Bold.woff2 HTTP/1.1" 200 -
 [2022-08-03 14:38:19,481] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:38:19] "GET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1" 200 -
 [2022-08-03 14:38:19,603] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:38:19] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:47:54,908] INFO in _internal:  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.20.118:5000 (Press CTRL+C to quit)
+[2022-08-03 14:47:54,909] INFO in _internal:  * Restarting with stat
+[2022-08-03 14:47:55,050] WARNING in _internal:  * Debugger is active!
+[2022-08-03 14:47:55,054] INFO in _internal:  * Debugger PIN: 101-737-030
+[2022-08-03 14:48:04,379] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "GET / HTTP/1.1" 200 -
+[2022-08-03 14:48:04,414] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,419] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[33mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-08-03 14:48:04,427] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,427] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,428] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,428] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,429] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,429] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,432] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,435] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,436] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,440] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,440] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,443] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,444] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,447] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,448] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,449] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,450] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,450] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,486] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,493] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,499] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,526] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,527] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:04,562] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:04] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:20,888] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:20] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2022-08-03 14:48:25,196] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:25] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2022-08-03 14:48:57,650] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "GET / HTTP/1.1" 200 -
+[2022-08-03 14:48:57,665] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,670] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[33mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-08-03 14:48:57,672] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,674] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,675] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,677] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,677] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,680] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,681] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,684] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,684] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,687] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,689] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,691] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,694] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,694] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,696] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,698] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,698] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,699] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,701] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,702] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,703] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,704] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,706] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:48:57,727] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:48:57] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:00,252] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:00] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2022-08-03 14:49:21,289] INFO in _internal:  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.20.118:5000 (Press CTRL+C to quit)
+[2022-08-03 14:49:21,290] INFO in _internal:  * Restarting with stat
+[2022-08-03 14:49:21,430] WARNING in _internal:  * Debugger is active!
+[2022-08-03 14:49:21,434] INFO in _internal:  * Debugger PIN: 101-737-030
+[2022-08-03 14:49:30,325] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "GET / HTTP/1.1" 200 -
+[2022-08-03 14:49:30,343] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,371] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[33mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-08-03 14:49:30,374] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,375] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,376] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,379] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,379] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,381] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,383] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,384] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,386] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,388] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,389] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,392] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,393] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,395] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,396] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,397] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,398] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,399] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,447] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,459] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,463] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,469] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:30,470] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:30] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:49:33,551] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:33] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2022-08-03 14:49:37,332] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:49:37] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2022-08-03 14:50:37,314] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:50:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:51:51,863] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:51:51] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2022-08-03 14:53:36,706] INFO in _internal:  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.20.118:5000 (Press CTRL+C to quit)
+[2022-08-03 14:53:36,707] INFO in _internal:  * Restarting with stat
+[2022-08-03 14:53:36,855] WARNING in _internal:  * Debugger is active!
+[2022-08-03 14:53:36,859] INFO in _internal:  * Debugger PIN: 101-737-030
+[2022-08-03 14:53:40,625] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "GET / HTTP/1.1" 200 -
+[2022-08-03 14:53:40,642] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,655] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[33mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-08-03 14:53:40,658] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,660] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,661] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,665] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,666] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,670] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,671] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,675] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,676] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,681] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,685] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,690] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,692] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,696] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,701] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,702] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,708] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,711] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,714] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,717] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,718] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,721] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,721] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:40,783] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:40] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,174] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "GET / HTTP/1.1" 200 -
+[2022-08-03 14:53:48,186] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,189] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[33mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-08-03 14:53:48,191] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,193] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,195] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,197] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,198] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,199] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,201] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,203] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,204] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,205] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,208] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,208] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,208] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,209] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,212] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,214] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,215] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,215] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,218] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,218] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,220] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,220] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,221] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:53:48,242] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:53:48] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:42,571] INFO in _internal:  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.20.118:5000 (Press CTRL+C to quit)
+[2022-08-03 14:55:42,572] INFO in _internal:  * Restarting with stat
+[2022-08-03 14:55:42,749] WARNING in _internal:  * Debugger is active!
+[2022-08-03 14:55:42,754] INFO in _internal:  * Debugger PIN: 101-737-030
+[2022-08-03 14:55:46,197] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "GET / HTTP/1.1" 200 -
+[2022-08-03 14:55:46,212] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,219] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[33mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-08-03 14:55:46,223] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,224] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,225] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,226] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,231] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,232] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,234] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,236] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,237] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,241] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,242] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,243] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,245] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,247] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,251] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,251] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,253] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,254] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,258] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,259] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,261] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,264] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,265] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:46,283] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:46] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:55:55,520] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:55:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:08,404] INFO in _internal:  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.20.118:5000 (Press CTRL+C to quit)
+[2022-08-03 14:58:08,405] INFO in _internal:  * Restarting with stat
+[2022-08-03 14:58:08,551] WARNING in _internal:  * Debugger is active!
+[2022-08-03 14:58:08,558] INFO in _internal:  * Debugger PIN: 101-737-030
+[2022-08-03 14:58:18,622] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "GET / HTTP/1.1" 200 -
+[2022-08-03 14:58:18,643] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,648] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[33mGET /static/img/Aleksandar.jpg HTTP/1.1[0m" 404 -
+[2022-08-03 14:58:18,653] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,654] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Top-pick.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,655] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Cake-Logo-Transparent-white.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,658] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Chocko-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,660] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Top-pick-lg.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,662] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Chocko-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,665] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Chocko-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,668] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Chocko-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,670] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Fruit-5.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,672] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Fruit-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,675] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Fruit-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,676] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Fruit-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,676] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/fonts/Gotham-Bold.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,679] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/fonts/HelveticaNeueLT-65Md.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,680] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/fonts/GothamRounded-Light.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,682] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/fonts/HelveticaNeueLT-45Lt.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,682] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/fonts/HelveticaNeueLT-75Bd.woff2 HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,683] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Fruit-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,711] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/GF-1.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,712] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/GF-2.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,714] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/gluten-free-icon-dark.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,720] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/GF-3.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,723] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/GF-4.png HTTP/1.1[0m" 304 -
+[2022-08-03 14:58:18,740] INFO in _internal: 127.0.0.1 - - [03/Aug/2022 14:58:18] "[36mGET /static/img/Cake-Logo-Transparent-red.png HTTP/1.1[0m" 304 -

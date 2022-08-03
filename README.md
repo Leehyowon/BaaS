@@ -14,7 +14,19 @@ The application is written for [BaaS][KTC Serverless Service].
 
 Text
 
-1.  Containerization
+1. Directory Architecture
+
+ㄴ app.py
+
+ㄴ templates
+
+    ㄴ $FILE_NAME.html
+
+ㄴ static
+
+    ㄴ $FILE_NAME.css
+    
+    ...
 
     ```sh
     docker image ~!~!
