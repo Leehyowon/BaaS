@@ -34,6 +34,7 @@ The application is written for [BaaS][KTC Serverless Service].
     <link rel="stylesheet" href="{{ url_for('static', filename='$FILE_NAME.css') }}">
     # <link rel="stylesheet" href="$FILE_NAME.css">
     ```
+
 1.  app.py
 
     Run the Flask server with app.py file.
@@ -83,23 +84,48 @@ The application is written for [BaaS][KTC Serverless Service].
     ```
 
 
-## Quick start
+## Build Flask Web Server using Docker
 
-Text
-
-1.  texts
-
-
-## Production setup
-
-This section details a full production setup using [BaaS][KTC Serverless Service].
-
-1.  Install or update ~.
-
-1.  Authenticate to the SDK:
+1.  Dockerfile
 
     ```sh
-    ~
+    FROM python:3.8             # Base image to use
+    COPY . /app                 # Copy the content(.) to '/app' directory in the container
+    RUN pip3 install flask      # Run packages, shell cmd, etc. which is necessary to the project
+    WORKDIR /app                # Set the workspace
+    CMD ["python3", "app.py"]   # Cmd to run
+    ```
+
+1.  Requirements.txt
+
+    ```sh
+    pip3 freeze > requirements.txt
+    ```
+
+1.  Docker Build
+
+    ```sh
+    docker build -t $REPOSIROTY:$VERSION .
+    # docker build -t test-image:latest .
+    ```
+
+1.  Docker Run
+
+    ```sh
+    docker run -d -p $HOST_PORT:$CONTAINER_PORT --name $CONTAINER_NAME $IMAGE_NAME:$VERSION
+    # docker run -d -p 5000:5000 --name test-container test-image:latest
+    docker ps       # to verify
+    ```
+
+
+## Flask with Micro-service Architecture
+
+1.  Title
+
+    !spachetti-code
+
+    ```sh
+    code
     ```
 
 
