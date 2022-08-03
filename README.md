@@ -37,11 +37,8 @@ The application is written for [BaaS][KTC Serverless Service].
 1.  app.py
 
     Run the Flask server with app.py file.
-
     Recommend to set the file name 'app.py' to skip setting the environment vaiables.
-
     Add dictConfig in the app.py file to generate test_error.log file to debug easier.
-
     Set host '0.0.0.0' to allow external access.
 
     ```sh
