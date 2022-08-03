@@ -1,13 +1,6 @@
 # Serverless BaaS Scenario Tester
 
-With this service, you can:
-
--   Text1
-
--   Text2
-
-
-The application is written for [BaaS][KTC Serverless Service]. 
+The application is written for [KTC Serverless Service](https://serverlessdev-web.ktcloud.com:12581/auth/login). 
 
 
 ## Prerequisite for Flask
@@ -125,8 +118,5 @@ The application is written for [BaaS][KTC Serverless Service].
     !spachetti-code
 
     ```sh
-    code
+    [reference](https://justkode.kr/python/flask-restapi-2)
     ```
-
-
-[BaaS]: https://serverlessdev-web.ktcloud.com:12581/auth/login
