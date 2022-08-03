@@ -10,33 +10,35 @@ With this service, you can:
 The application is written for [BaaS][KTC Serverless Service]. 
 
 
-## Quick start
-
-Text
+## Prerequisite for Flask
 
 1. Directory Architecture
 
+    ```sh
     ㄴ app.py
-
     ㄴ templates
-
         ㄴ $FILE_NAME.html
-
     ㄴ static
-
-        ㄴ $FILE_NAME.css
-        
-    ...
-
-    ```sh
-    docker image ~!~!
+        ㄴ $FILE_NAME.css 
+            ...
+    ㄴ requirements.txt
+    ㄴ Dockerfile
+    ㄴ test_error.log
     ```
 
-1.  Deploy the service to Serverless with Flask:
+1.  Flask Template Setting
+
+    To reference Static files(e.g., css, js) in Template files(e.g., html)
 
     ```sh
-    python3 $flask_script.py
+    <link rel="stylesheet" href="{{ url_for('static', filename='$FILE_NAME.css') }}
+    # <link rel="stylesheet" href="$FILE_NAME.css">
     ```
+
+
+## Quick start
+
+Text
 
 1.  texts
 
