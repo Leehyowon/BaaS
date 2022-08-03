@@ -16,16 +16,16 @@ Text
 
 1. Directory Architecture
 
-ㄴ app.py
+    ㄴ app.py
 
-ㄴ templates
+    ㄴ templates
 
-    ㄴ $FILE_NAME.html
+        ㄴ $FILE_NAME.html
 
-ㄴ static
+    ㄴ static
 
-    ㄴ $FILE_NAME.css
-    
+        ㄴ $FILE_NAME.css
+        
     ...
 
     ```sh
