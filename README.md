@@ -115,8 +115,9 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
 
 1.  Title
 
-    !spachetti-code
+    ! spachetti-code
+    [reference](https://justkode.kr/python/flask-restapi-2)
 
     ```sh
-    [reference](https://justkode.kr/python/flask-restapi-2)
+    code
     ```
