@@ -28,11 +28,61 @@ The application is written for [BaaS][KTC Serverless Service].
 
 1.  Flask Template Setting
 
-    To reference Static files(e.g., css, js) in Template files(e.g., html)
+    To reference static files(e.g., css, js) in template files(e.g., html), add the url in the template files according to the form below.
 
     ```sh
-    <link rel="stylesheet" href="{{ url_for('static', filename='$FILE_NAME.css') }}
+    <link rel="stylesheet" href="{{ url_for('static', filename='$FILE_NAME.css') }}">
     # <link rel="stylesheet" href="$FILE_NAME.css">
+    ```
+1.  app.py
+
+    Run the Flask server with app.py file.
+
+    Recommend to set the file name 'app.py' to skip setting the environment vaiables.
+
+    Add dictConfig in the app.py file to generate test_error.log file to debug easier.
+
+    Set host '0.0.0.0' to allow external access.
+
+    ```sh
+    from flask import Flask, render_template
+    import webbrowser
+    import os
+    from logging.config import dictConfig
+
+    # Debug
+    dictConfig({
+        'version': 1,
+        'formatters': {
+            'default': {
+                'format': '[%(asctime)s] %(levelname)s in %(module)s: %(message)s',
+            }
+        },
+        'handlers': {
+            'file': {
+                'level': 'INFO',
+                'class': 'logging.handlers.RotatingFileHandler', 
+                'filename': 'test_error.log',
+                'maxBytes': 1024 * 1024 * 5,  # 5 MB
+                'backupCount': 5,
+                'formatter': 'default',
+            },
+        },
+        'root': {
+            'level': 'INFO',
+            'handlers': ['file']
+        }
+    })
+
+    app = Flask(__name__)
+
+    @app.route("/")
+    def $FUNCTION():
+        return render_template('$FILE_NAME.html')
+        
+
+    if __name__=="__main__":
+        app.run(host='0.0.0.0', port='$PORT', debug=True)
     ```
 
 
