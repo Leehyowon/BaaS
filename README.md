@@ -139,23 +139,23 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
 
 1.  Build and Tag the Image
 
-The following example command is the same as the Container Registry example, but uses an Artifact Registry repository path for the image.
+    The following example command is the same as the Container Registry example, but uses an Artifact Registry repository path for the image.
 
     ```sh
     docker build -t us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
     ```
 
-1.  Push the Image to Registry Repository
+1.  Push the Image to Artifact Registry Repository
 
-Push the image to the repository using the Artifact Registry path.
+    Push the image to the repository using the Artifact Registry path.
 
     ```sh
     docker push us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
     ```
 
-1.  Pull the Image from Registry Repository
+1.  Pull the Image from Artifact Registry Repository
 
-Pull the image to the repository using the Artifact Registry path.
+    Pull the image to the repository using the Artifact Registry path.
 
     ```sh
     docker pull us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
