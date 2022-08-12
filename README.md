@@ -110,13 +110,30 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
     docker ps       # to verify
     ```
 
+1.  Docker Hub - Image Push
+
+    ```sh
+    docker ps   # to check $CONTAINTER_ID
+    docker login
+    docker commit $CONTAINER_ID $USER_NAME/$REPOSITORY_NAME:$VERSION
+    docker push $USER_NAME/$REPOSITORY_NAME:$VERSION
+    ```
+
+1.  Docker Hub - Image Pull
+
+    ```sh
+    docker login
+    docker pull $USER_NAME/$REPOSITORY_NAME:$VERSION
+    docker image    # to check $CONTAINER_IMAGE
+    docker run -it $USER_NAME/$REPOSITORY_NAME:$VERSION
+    ```
 
 ## Flask with Micro-service Architecture
 
 1.  Title
 
     ! spachetti-code
-    
+
     [reference](https://justkode.kr/python/flask-restapi-2)
 
     ```sh
