@@ -77,7 +77,7 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
     ```
 
 
-## Build Flask Web Server using Docker
+## Build Flask Application using Docker
 
 1.  Dockerfile
 
@@ -105,12 +105,15 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
 1.  Docker Run
 
     ```sh
-    docker run -d -p $HOST_PORT:$CONTAINER_PORT --name $CONTAINER_NAME $IMAGE_NAME:$VERSION
+    docker run -d -p 0.0.0.0:$HOST_PORT:$CONTAINER_PORT --name $CONTAINER_NAME $IMAGE_NAME:$VERSION
     # docker run -d -p 5000:5000 --name test-container test-image:latest
     docker ps       # to verify
     ```
 
-1.  Docker Hub - Image Push
+
+## Docker Hub: Public Registry managed by Docker
+
+1.  Push the Image to Docker Hub
 
     ```sh
     docker ps   # to check $CONTAINTER_ID
@@ -119,14 +122,45 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
     docker push $USER_NAME/$REPOSITORY_NAME:$VERSION
     ```
 
-1.  Docker Hub - Image Pull
+1.  Pull the Image from Docker Hub
 
     ```sh
     docker login
     docker pull $USER_NAME/$REPOSITORY_NAME:$VERSION
-    docker image    # to check $CONTAINER_IMAGE
-    docker run -it $USER_NAME/$REPOSITORY_NAME:$VERSION
+    docker image ls    # to check $CONTAINER_IMAGE
+    docker run -d -p 0.0.0.0:$HOST_PORT:$CONTAINER_PORT --name $CONTAINER_NAME $REPOSITORY_NAME:$VERSION
     ```
+
+1.  Artifact Registry
+
+    ```sh
+    code
+    ```
+
+1.  Build and Tag the Image
+
+The following example command is the same as the Container Registry example, but uses an Artifact Registry repository path for the image.
+
+    ```sh
+    docker build -t us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
+    ```
+
+1.  Push the Image to Registry Repository
+
+Push the image to the repository using the Artifact Registry path.
+
+    ```sh
+    docker push us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
+    ```
+
+1.  Pull the Image from Registry Repository
+
+Pull the image to the repository using the Artifact Registry path.
+
+    ```sh
+    docker pull us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
+    ```
+
 
 ## Flask with Micro-service Architecture
 
