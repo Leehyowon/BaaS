@@ -98,8 +98,8 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
 1.  Docker Build
 
     ```sh
-    docker build -t $REPOSIROTY:$VERSION .
-    # docker build -t test-image:latest .
+    docker build -t $DOCKER_REGISTRY_IP:$DOCKER_REGISTRY_PORT/$REPOGITORY/$IMAGE_NAME:$TAG .
+    # docker build -t $REPOSIROTY:$VERSION .
     ```
 
 1.  Docker Run
@@ -109,9 +109,6 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
     # docker run -d -p 5000:5000 --name test-container test-image:latest
     docker ps       # to verify
     ```
-
-
-## Docker Hub: Public Registry managed by Docker
 
 1.  Push the Image to Docker Hub
 
@@ -129,37 +126,6 @@ The application is written for [KTC Serverless Service](https://serverlessdev-we
     docker pull $USER_NAME/$REPOSITORY_NAME:$VERSION
     docker image ls    # to check $CONTAINER_IMAGE
     docker run -d -p 0.0.0.0:$HOST_PORT:$CONTAINER_PORT --name $CONTAINER_NAME $REPOSITORY_NAME:$VERSION
-    ```
-
-1.  Artifact Registry
-
-    ```sh
-    code
-    ```
-
-1.  Build and Tag the Image
-
-    The following example command is the same as the Container Registry example, but uses an Artifact Registry repository path for the image.
-
-    ```sh
-    docker build -t us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
-    ```
-
-1.  Push the Image to Artifact Registry Repository
-
-    Push the image to the repository using the Artifact Registry path.
-
-    ```sh
-    docker push us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
-    ```
-
-1.  Pull the Image from Artifact Registry Repository
-
-    Pull the image to the repository using the Artifact Registry path.
-
-    ```sh
-    docker pull us-central-docker.pkg.dev/my-project/my-repo/my-image:tag1
-    ```
 
 
 ## Flask with Micro-service Architecture
